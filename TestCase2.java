@@ -2,7 +2,7 @@ package testPackage1;
 
 //added new line
 //added previous line
-//to check git diff
+//Double check this line which added now
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
